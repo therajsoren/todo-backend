@@ -3,7 +3,11 @@ This project involves managing user-specific data and implementing basic CRUD op
 
 ## How to run locally
 Clone the repository
+
 Navigate to the project directory
+
 Install dependencies
+
 Create a .env file and add your MongoDB connection string
+
 Start the server
